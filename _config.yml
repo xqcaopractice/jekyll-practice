@@ -1,1 +1,6 @@
 baseurl: /jekyll-practice
+
+#permalink: /:path/:basename:output_ext
+#permalink: /:month-:day-:year/:title.html
+
+#category: test
